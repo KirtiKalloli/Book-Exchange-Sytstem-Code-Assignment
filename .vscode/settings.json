@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "PG local",
+            "connectString": "postgresql://postgres:kirti123@localhost:5432/postgres",
+            "connectionTimeout": 30
+        }
+    ]
+}
